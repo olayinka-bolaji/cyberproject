@@ -39,7 +39,7 @@ MAIL_PASS="qbkazcoetsmsemsn"
 PROD="cybersecurity-env.eba-yvjcfnex.us-west-2.elasticbeanstalk.com/"
 DEV="http://localhost:8000/"
 
-ALLOWED_HOSTS = ["localhost:8000", "cybersecurity-env.eba-yvjcfnex.us-west-2.elasticbeanstalk.com"]
+ALLOWED_HOSTS = ["127.0.0.1","localhost", "cybersecurity-env.eba-yvjcfnex.us-west-2.elasticbeanstalk.com"]
 
 # Application definition
 
