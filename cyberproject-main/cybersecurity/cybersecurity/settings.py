@@ -32,8 +32,8 @@ DEBUG = True
 # [EMAIL]
 MAIL_PORT=587
 MAIL_SERVER="smtp.gmail.com"
-MAIL_USER="ketuojoken@gmail.com"
-MAIL_PASS="qbkazcoetsmsemsn"
+MAIL_USER="hyphen424@gmail.com"
+MAIL_PASS="yxjdhpdbinscjkcv"
 
 # [MODE_URL]
 PROD="cybersecurity-env.eba-yvjcfnex.us-west-2.elasticbeanstalk.com/"
